@@ -1,0 +1,14 @@
+# https://dotnet.microsoft.com/en-us/
+
+// LOS COMENTARIOS EN C# SE PONEN ASÍ EN UNA SOLA LÍNEA //
+
+/* los comentarios en VARIAS LÍNEAS 
+se escriben
+así */
+
+
+CHAR = VARIABLE_letras;
+CONST INT = NUMBER;
+int dliteral = 10;
+
+
